@@ -1,5 +1,5 @@
 # Oumar Ahmat Souleymane
-# 👋 Hello, I'm Oumar Souleymane Ahmat
+# 👋 Hello, I'm Oumar Ahmat Souleymane
 
 🎓 Étudiant en informatique basé en France  
 🤖 Intéressé par l’ingénierie IA appliquée, l’automatisation et les systèmes intelligents  
